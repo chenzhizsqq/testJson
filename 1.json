@@ -1,4 +1,11 @@
 {
-  "name": "kabaya",
-  "job": "engineer"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
